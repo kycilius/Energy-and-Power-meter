@@ -4,6 +4,10 @@ A smart energy and power monitoring system designed to measure and analyze DC vo
 
 ---
 
+**for refrence you can check out**: [Energy and Power meter]([https://www.tinkercad.com/things/c0tnz64L1A6-energy-and-power-meter-dc?sharecode=oXoMRbB25mt2iSd0h2S66wwziLPuVfKBaxa0KfLi9O4])
+
+---
+
 ## **Features**
 
 - **Accurate Measurement**: Measures DC voltage, current, power, and total energy consumption.
