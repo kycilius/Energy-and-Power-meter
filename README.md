@@ -6,7 +6,7 @@ A smart energy and power monitoring system designed to measure and analyze DC vo
 
 ### Circuit Design
 The circuit design and simulation for this project can be viewed on Tinkercad:
-[Tinkercad Circuit Simulation]([https://www.tinkercad.com/things/c0tnz64L1A6-energy-and-power-meter-dc?sharecode=oXoMRbB25mt2iSd0h2S66wwziLPuVfKBaxa0KfLi9O4])
+[Tinkercad Circuit Simulation]([www.tinkercad.com/things/c0tnz64L1A6-energy-and-power-meter-dc?sharecode=oXoMRbB25mt2iSd0h2S66wwziLPuVfKBaxa0KfLi9O4])
 
 ---
 
